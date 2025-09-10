@@ -1,4 +1,4 @@
-# Prot-tipo-Hovercraft
+# Projeto-Protótipo-Hovercraft
 Projeto de um protótipo de um Hovercraft, veículo anfíbio capaz de andar em diversos terrenos.
 
 Para o protótipo do hovercraft, foram principamente usados os programas Autocad, para a parte de desenhos mais simples. 
